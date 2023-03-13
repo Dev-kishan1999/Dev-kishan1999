@@ -33,7 +33,7 @@ I'm a DevOps Engineer Intern at TD Bank, Toronto. I have 1.5 years of experience
 
 ## 💻 Projects
 
-### Serverless Bed & Breakfast
+### <ins>Serverless Bed & Breakfast</ins>
 
 Desc: _Multi-cloud based responsive web application to manage hotel, food and tour bookings._
 
