@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there, I'm [Your Name] 👋
-About Me
+Hi there, I'm Kishan 👋
 
-I'm a [Your Profession] based in [Your City]. I have [Number of Years] years of experience in [Your Area of Expertise]. I'm passionate about [Your Passion or Interest].
+About Me:
+
+I'm a DevOps Engineer Intern at TD Bank, Toronto. I have 1.5 years of experience as a Full Stack Developer. I'm passionate about Cloud technologies and Solftware Development.
+
 Skills
 
     [Skill 1]
@@ -35,28 +37,14 @@ Projects
 Technologies Used: [Technology 1], [Technology 2], [Technology 3]
 
 GitHub Repo: [Link to GitHub Repo]
-[Project 2 Name]
 
-[Project 2 Description]
 
-Technologies Used: [Technology 1], [Technology 2], [Technology 3]
-
-GitHub Repo: [Link to GitHub Repo]
-[Project 3 Name]
-
-[Project 3 Description]
-
-Technologies Used: [Technology 1], [Technology 2], [Technology 3]
-
-GitHub Repo: [Link to GitHub Repo]
 Contact Me
 
-    [Email Address]
-    [LinkedIn Profile]
-    [Personal Website]
-    [Twitter Handle]
+    Email : kishansavaliya1999@gmail.com
+    Linkedin : https://www.linkedin.com/in/kishan-savaliya-609ab3159/
 
 Feel free to reach out to me for any collaborations or just to say hi!
 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&count_private=true&hide=issues,contribs&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-kishan1999&show_icons=true&count_private=true&hide=issues,contribs&theme=default)
