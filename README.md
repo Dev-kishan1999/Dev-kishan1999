@@ -74,8 +74,8 @@ GitHub Repo: [Go to the Project](https://github.com/Dev-kishan1999/pawdoption)
 
 ## 📫 How to reach me:
 
-    Email : kishansavaliya1999@gmail.com
-    Linkedin : https://www.linkedin.com/in/kishan-savaliya-609ab3159/
+  Email : kishansavaliya1999@gmail.com
+  Linkedin : [Go to Linkedin Profile](https://www.linkedin.com/in/kishan-savaliya-609ab3159/)
 
 Feel free to reach out, I’d welcome the
 opportunity to speak with you about how I can contribute.
