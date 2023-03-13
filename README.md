@@ -39,12 +39,12 @@ Technologies Used: [Technology 1], [Technology 2], [Technology 3]
 GitHub Repo: [Link to GitHub Repo]
 
 
-Contact Me
+Contact Me: 
 
     Email : kishansavaliya1999@gmail.com
     Linkedin : https://www.linkedin.com/in/kishan-savaliya-609ab3159/
 
-Feel free to reach out to me for any collaborations or just to say hi!
-Stats
+Feel free to reach out, I’d welcome the
+opportunity to speak with you about how I can contribute.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-kishan1999&show_icons=true&count_private=true&hide=issues,contribs&theme=default)
