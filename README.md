@@ -43,7 +43,7 @@ GitHub Repo: [Go to the Project](https://github.com/Dev-kishan1999/serverless)
 
 
 
-### Code Matcher
+### <ins>Code Matcher</ins>
 
 Desc: _Responsive web application for to find the best match like tinder using cloud technologies._
 
@@ -53,7 +53,7 @@ GitHub Repo: [Go to the Project](https://github.com/Dev-kishan1999/codematcher)
 
 
 
-### Repo Scientist
+### <ins>Repo Scientist</ins>
 
 Desc: _Web application to analyse contribution from a github repository and commits to display it as charts._
 
@@ -63,7 +63,7 @@ GitHub Repo: This project is submitted as a term paper and because of the privac
 
 
 
-### Pawdoption
+### <ins>Pawdoption</ins>
 
 Desc: _Mobile application where shelter can do post about cats and users can adopt them. _
 
