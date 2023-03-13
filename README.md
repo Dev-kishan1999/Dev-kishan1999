@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 
 
-## About Me:
+## 👋 About Me:
 
 I'm a DevOps Engineer Intern at TD Bank, Toronto. I have 1.5 years of experience as a Full Stack Developer. I'm passionate about Cloud technologies and Solftware Development.
 
-## Skills:
+## 💪 Skills:
 
     Frontend  : React, Nextjs, JavaScript, Angular, TypeScript, HTML5, CSS, Bootstrap, Bulma, Material
     Backend   : Java (Maven, spring boot), Node.js (Express), C++, Python, Golang, REST APIs
@@ -31,7 +31,7 @@ I'm a DevOps Engineer Intern at TD Bank, Toronto. I have 1.5 years of experience
     Misc      : OOP, SDLC, Unit and Integration testing, MS Office, Kotlin, Jira, Figma
 
 
-## Projects
+## 💻 Projects
 
 ### Serverless Bed & Breakfast
 
